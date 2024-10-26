@@ -9,7 +9,7 @@ class Vehicle:
 
 
     def get_model(self):
-                return f'Модель: {self.__model}'
+            return f'Модель: {self.__model}'
 
     def get_horsepower(self):
             return f'Мощность двигателя: {self.__engine_power}'
